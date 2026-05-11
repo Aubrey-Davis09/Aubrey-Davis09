@@ -1,4 +1,10 @@
 ## Hi there 👋
+## My name is Aubrey Davis
+## I am a high school student learning computer programming
+## 🌱 I’m currently learning on python coding 
+## 👀 I’m interested in robotic engineering
+## 📫 How to reach me: you can email me at my school email gci.252639@students.geneseeisd.org or my personal email Aubreydavis0209@gmail.com
+
 
 <!--
 **Aubrey-Davis09/Aubrey-Davis09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
